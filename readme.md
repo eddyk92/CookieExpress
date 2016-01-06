@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Form-based authentication with `express`, `knex`, `postgres`, `bcrypt`
 
 Application Setup 
@@ -110,3 +111,6 @@ If the login is successful the user will be redirected to loggedin.html
 This page is shown after a user logs in.
 
 The page will redirect to index.html if the user is NOT logged in.
+=======
+Read Me for Cookie assignment
+>>>>>>> 771287c191f86fa21a22792815b3a542fec34f4e
